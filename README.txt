@@ -1,3 +1,5 @@
+Modificación de la app DVWA para demostración en la semana de la Informática sobre Vulnerabilidades Web. 
+
 ############################################################
 ################# DAMN VULNERABLE WEB APP ##################
 ############################################################
