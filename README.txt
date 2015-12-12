@@ -119,3 +119,4 @@ In .htaccess:
 # SVN: http://dvwa.svn.sourceforge.net/svnroot/dvwa
 
 # Created by: The DVWA team.
+#Modified by: Rey-17.
