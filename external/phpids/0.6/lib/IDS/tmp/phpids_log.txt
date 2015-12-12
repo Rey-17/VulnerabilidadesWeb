@@ -1,0 +1,4 @@
+"local/unknown",2015-10-14T21:13:47+02:00,12,"sqli id lfi","REQUEST.id=%27 GET.id=%27","%2FCross-Site-Scripting%2Fvulnerabilities%2Fsqli%2F%3Fid%3D%2527%26Submit%3DSubmit","127.0.0.1"
+"local/unknown",2015-10-14T21:14:24+02:00,12,"sqli id lfi","REQUEST.id=%27 GET.id=%27","%2FCross-Site-Scripting%2Fvulnerabilities%2Fsqli%2F%3Fid%3D%2527%26Submit%3DSubmit","127.0.0.1"
+"local/unknown",2015-10-15T01:57:19+02:00,12,"sqli id lfi","REQUEST.id=%27 GET.id=%27","%2FCross-Site-Scripting%2Fvulnerabilities%2Fsqli%2F%3Fid%3D%2527%26Submit%3DSubmit","127.0.0.1"
+"::1",2015-11-18T04:33:28+01:00,32,"xss csrf sqli id lfi","REQUEST.id=%25%27or%272%3D2 GET.id=%25%27or%272%3D2","%2FCross-Site-Scripting%2Fvulnerabilities%2Fsqli%2F%3Fid%3D%2525%2527or%25272%253D2%26Submit%3DSubmit","::1"
